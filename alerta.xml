@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice" language="es-ES"> Se ha detectado movimiento en tu hogar. Esta es una alerta del sistema de seguridad.</Say>
+</Response>
